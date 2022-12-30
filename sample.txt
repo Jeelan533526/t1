@@ -1,3 +1,7 @@
 1st commit
 2nd commit
+<<<<<<< HEAD
 4th commit
+=======
+3rd commit
+>>>>>>> 9dd298aa680eb2d28cf81175d4f577a7c1da14a2
